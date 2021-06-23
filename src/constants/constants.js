@@ -38,9 +38,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2018, text: 'Started my B.tech at GL Bajaj Institute of Technology & Management', },
+  { year: 2019, text: 'Campus Ambassador of Bosch 2019', },
+  { year: 2020, text: 'Started learning CP and WebDev', },
+  { year: 2021, text: 'Solved 200+ problems on all coding platforms', },
 ];
